@@ -1,0 +1,14 @@
+{"post": [
+    { "id" : 1,
+      "title": "Algun titulo",
+      "author" : "Roberto"
+           }    
+],
+"comments": [
+    { "id" : 1, 
+       "body": "el cuerpo",
+       "postid": "hola"  }
+],
+"profile" : {"name": "adam"}
+
+}
